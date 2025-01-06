@@ -1,5 +1,5 @@
 {
-    "name":"Default Gamepad/Keyboard",
+    "name":"Default Gamepad/Dvorak Keyboard",
     "desc":"Generic preset that should be good for most games. This includes DVORAK Keyboard mapping.",
     "console":"Default",
     "map":[
